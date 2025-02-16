@@ -1,0 +1,11 @@
+Dependencies for Project 'adc', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x662F7072)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 525"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\adc.c)(0x662F7072)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="525"-o .\adc.o --omf_browse .\adc.crf --depend .\adc.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc214x.h)(0x559CFE30)
+F (.\LCD.c)(0x662F7072)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="525"-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc214x.h)(0x559CFE30)
+F (.\main.c)(0x66326A09)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="525"-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (adc.h)(0x662F7072)
+I (LCD.h)(0x662F7072)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EF054)
+I (C:\Keil_v5\ARM\INC\Philips\lpc214x.h)(0x559CFE30)
