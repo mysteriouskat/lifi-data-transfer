@@ -5,6 +5,9 @@ Basic idea of this project is transfering a string of "Hello world" between two 
 
 This repository contains the keil project files of the project along with the hex files for receiver and transmitter which can be flashed onto the lpc2148 kits.
 
+Kits used: Micro A748 kit
+Softwares: Keil and Flash Magic 5
+
 # Screenshot
 ------------
 
